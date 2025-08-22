@@ -1,7 +1,7 @@
 # TryHackMe – Information Sourcing & Search Skills
 
-**Date:** Feb 22, 2025  
-**Room Link:** (add TryHackMe room link here)
+**Date:** Aug 21, 2025  
+**Room Link:** (https://tryhackme.com/room/searchskills)
 
 ---
 
