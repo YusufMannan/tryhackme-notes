@@ -68,6 +68,8 @@ Returns all log entries containing the IP 81.143.211.90.
 
 Useful for searching logs (e.g., web server activity).
 
+---
+
 ## ⚙️ Shell Operators
 Operator	Purpose	Example
 - &	Run a command in the background	cp largefile.txt backup/ &
@@ -75,11 +77,14 @@ Operator	Purpose	Example
 - >	Redirect output (overwrites file contents)	echo hey > welcome
 - >>	Redirect output (appends to file without erasing)	echo hello >> welcome
 
+---
 
 ## ⚠️ Challenges
 - Adjusting to a terminal-only environment without GUI. 
 - Remembering directory paths and commands at first.
 - Learning the difference between overwriting vs. appending (> vs. >>).
+
+---
 
 ## 📌 Takeaways
 - Linux is powerful, lightweight, and widely used across industries.
