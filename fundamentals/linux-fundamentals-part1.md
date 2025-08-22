@@ -47,14 +47,6 @@ Example workflow:
 - `find -name passwords.txt` → finds file by name.  
 - `find -name *.txt` → finds all `.txt` files with wildcard search.
 
-Example result:
-./folder1/passwords.txt
-./Documents/todo.txt
-
-yaml
-Copy
-Edit
-
 ---
 
 ## 📝 Searching with `grep`
@@ -65,7 +57,7 @@ Example:
 ```bash
 grep "81.143.211.90" access.log
 Returns all log entries containing the IP 81.143.211.90.
-
+```
 Useful for searching logs (e.g., web server activity).
 
 ---
