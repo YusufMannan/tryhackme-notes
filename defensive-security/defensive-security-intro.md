@@ -1,7 +1,7 @@
 # TryHackMe – Defensive Security: SOC & DFIR
 
 **Date:** Aug 20, 2025  
-**Room Link:** (add the TryHackMe room link here)
+**Room Link:** (https://tryhackme.com/room/defensivesecurityintro)
 
 ---
 
