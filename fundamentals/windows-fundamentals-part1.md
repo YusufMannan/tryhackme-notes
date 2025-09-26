@@ -1,4 +1,4 @@
-# TryHackMe – Windows Fundamentals
+# TryHackMe – Windows Fundamentals (Part 1)
 
 **Date:** Sep 2025  
 **Room Link:** (https://tryhackme.com/room/windowsfundamentals1xbx)
